@@ -1,0 +1,32 @@
+﻿[
+  {
+    "NameSurname": "Ahmet Yılmaz",
+    "Title": "Lezzet Avcısı",
+    "Comment": "Restorandaki hizmet ve lezzet mükemmeldi. Özellikle akşam menüsündeki tatlılar unutulmazdı.",
+    "ImageUrl": "test"
+  },
+  {
+    "NameSurname": "Elif Demir",
+    "Title": "Gurme",
+    "Comment": "Servis oldukça hızlı ve personel çok ilgiliydi. Mekânın ambiyansı da çok hoş.",
+    "ImageUrl": "test"
+  },
+  {
+    "NameSurname": "Murat Kaya",
+    "Title": "Aile Dostu",
+    "Comment": "Çocuklu aileler için ideal bir yer. Hem yemekler hem de ortam çok keyifliydi.",
+    "ImageUrl": "test"
+  },
+  {
+    "NameSurname": "Selin Arslan",
+    "Title": "Yemek Eleştirmeni",
+    "Comment": "Sunumlar oldukça özenli ve malzemeler taze. Şefin önerdiği spesiyal menü harikaydı.",
+    "ImageUrl": "test"
+  },
+  {
+    "NameSurname": "Deniz Karaca",
+    "Title": "Lezzet Kaşifi",
+    "Comment": "Arkadaşlarımla harika bir akşam yedik. Restoranın atmosferi ve servis kalitesi etkileyiciydi.",
+    "ImageUrl": "test"
+  }
+]
